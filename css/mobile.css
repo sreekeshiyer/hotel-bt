@@ -3,8 +3,10 @@
     text-align: center;
 }
 
-#navbar ul, #navbar ul, li {
+#navbar ul, #navbar ul, li{
+    padding-right: 1.2rem;
     float: none;
+    
 }
 
 #navbar ul li a {
